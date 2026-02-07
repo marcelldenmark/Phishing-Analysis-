@@ -1,0 +1,25 @@
+# Phishing Analysis – Cybersecurity Lab
+
+## Overview
+This repository contains a real-world phishing incident analysis
+demonstrating entry-level cybersecurity skills, including:
+- Incident documentation
+- Attack analysis
+- Business impact assessment
+- Security control recommendations
+
+## Skills Demonstrated
+- Security analysis
+- Threat modeling
+- Risk assessment
+- Security documentation
+- Defensive thinking
+
+## Tools Used
+- Markdown
+- GitHub
+- Security frameworks (conceptual)
+
+## Scenario
+A credential phishing email targeting employees in a school district
+was analyzed to assess risk, impact, and mitigation strategies.
