@@ -1,0 +1,17 @@
+# Attack Analysis
+
+## Attack Vector
+Email-based phishing
+
+## Attacker Objective
+Credential harvesting for unauthorized access
+
+## Techniques Observed
+- Spoofed IT email address
+- Urgent call-to-action
+- Fake login page
+
+## Potential Next Steps if Successful
+- Account takeover
+- Lateral movement
+- Access to sensitive student data
