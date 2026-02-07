@@ -1,0 +1,17 @@
+# Phishing Incident Summary
+
+## Organization
+Public School District
+
+## Incident Type
+Credential Phishing Attack
+
+## Summary
+An email impersonating the IT department was sent to employees,
+requesting password verification through a fake login portal.
+
+## Detection
+An employee reported the suspicious email to the IT helpdesk.
+
+## Status
+No confirmed compromise at time of analysis.
